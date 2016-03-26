@@ -1,4 +1,6 @@
-This is solution for problem #18 from https://projecteuler.net website:
+###Overview
+
+This is solution for **problem #18** from https://projecteuler.net website:
 
 'Find the maximum total from top to bottom of the specified triangle of numbers.'
 
@@ -20,20 +22,26 @@ survivor path metrics for each element that was processed. So if we start from b
 will reach the top element where only maximum path will survive. This solution will have linear time complexity since
 we processed each triangle element only once.
 
+
+###How to run
+
 To run the program you need to have Python installed.
 
 Running from command line:
 
-   > python max_path_sum_1.py
+*python max_path_sum_1.py*
 
-Sample output:
+###Sample output:
 
-*Maximum total from top to bottom: 1074*
-*Execution time: 0.001s*
+Maximum total from top to bottom: 1074<br/>
+Execution time: 0.001s*
+
+
+###Testing
 
 To run unittest, please, make sure you have max_path_sum_1.py in the same directory.
 
 
 Running from command line:
 
-   > python test_max_path_sum_1.py
+*python test_max_path_sum_1.py*

@@ -17,7 +17,7 @@ Running from command line:
 
 *python even_fibo_numbers.py*
 
-##Sample output:
+###Sample output:
 
 Sum of even-valued Fibonacci that do not exceed 4000000 is: 4613732<br/>
 Execution time: 0.001s
