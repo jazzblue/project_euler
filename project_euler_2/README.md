@@ -24,8 +24,8 @@ Execution time: 0.001s
 
 ###Testing
 
-To test you can run unittest by invoking:
+You can run unittest by invoking:
 
 *python test_even_fibo_numbers.py*
 
-Also, please, make sure you have even_fibo_numbers.py in the same directory.
+Also, please, make sure you have *even_fibo_numbers.py* in the same directory.

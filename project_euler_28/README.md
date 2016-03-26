@@ -33,8 +33,8 @@ Execution time: 0.001s
 
 ###Testing
 
-To run unittest, please, make sure you have max_path_sum_1.py in the same directory.
-
-Running from command line:
+You can run unittest by invoking:
 
 *python test_number_spiral_diagonals.py*
+
+Also, please, make sure you have *number_spiral_diagonals.py* in the same directory.
