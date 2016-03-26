@@ -15,7 +15,7 @@ Running from command line:
 Sample output:
 
 Sum of even-valued Fibonacci that do not exceed 4000000 is: 4613732
-Execution time: 0.001s^M
+Execution time: 0.001s^
 
 
 To test you can run unittest by invoking:
