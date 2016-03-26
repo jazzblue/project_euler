@@ -4,7 +4,7 @@ __author__ = 'Gregory Ronin'
 Unit test for max_path_sum_1 module.
 
 To run the program you need to have Python installed.
-Also, please, make sure you have test_max_path_sum_1.py in the same directory.
+Also, please, make sure you have max_path_sum_1.py in the same directory.
 
 Running from command line:
 
