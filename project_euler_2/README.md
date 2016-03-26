@@ -1,4 +1,4 @@
-This is solution for problem #2 from https://projecteuler.net website:
+This is solution for **problem #2** from https://projecteuler.net website:
 
 'Find the sum of the even-valued Fibonacci terms whose values do not exceed 4000000.'
 
@@ -6,18 +6,20 @@ This was the first problem I worked on and I chose it as a warm-up since it is f
 
 The main method in this module is fibo_sum_even(max_value). It receives maximum Fibonacci value which is 4000000 in our case and computes the solution to the problem.
 
+##How to run
+
 To run the program you need to have Python installed.
 
 Running from command line:
 
    > python even_fibo_numbers.py
 
-Sample output:
+##Sample output:
 
-Sum of even-valued Fibonacci that do not exceed 4000000 is: 4613732
-
+Sum of even-valued Fibonacci that do not exceed 4000000 is: 4613732<br/>
 Execution time: 0.001s
 
+##Testing
 
 To test you can run unittest by invoking:
 
