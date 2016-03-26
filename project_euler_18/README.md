@@ -29,6 +29,7 @@ Running from command line:
 Sample output:
 
 Maximum total from top to bottom: 1074
+
 Execution time: 0.001s
 
 To run unittest, please, make sure you have max_path_sum_1.py in the same directory.
