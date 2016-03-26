@@ -20,7 +20,7 @@ of a spiral. We will only keep and update diagonals' sums. There will be three d
     - right diagonal for even side length
     - right diagonal for odd side length
 
-The details of the algorithm are outlined below in the code comments.
+The details of the algorithm are outlined in the code comments.
 
 ###How to run
 
