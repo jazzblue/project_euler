@@ -4,7 +4,7 @@ __author__ = 'Gregory Ronin'
 Unit test for even_fibo_numbers module.
 
 To run the program you need to have Python installed.
-Also, please, make sure you have test_even_fibo_numbers.py in the same directory.
+Also, please, make sure you have even_fibo_numbers.py in the same directory.
 
 Running from command line:
 
